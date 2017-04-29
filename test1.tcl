@@ -1,6 +1,3 @@
-# Amjidanutpan Ramanuja
-# cs6630
-# Project 5
 
 package require vtk
 package require vtkinteraction
